@@ -9,7 +9,7 @@ over the network.
 
 ## Requirements
 
-The first alpha is tested with:
+This alpha is tested with:
 
 - Minecraft: Java Edition 26.2
 - Fabric Loader 0.19.3
@@ -29,7 +29,8 @@ Fabric documents the `mods` folder location for Windows, macOS, and Linux in
 its [player guide](https://docs.fabricmc.net/players/installing-mods).
 
 Enter a world and click. The counter appears in the upper-left corner and drops
-back to zero one second after the last click.
+back to zero one second after the last click. Press `H` to show or hide it. You
+can change the binding under **Options > Controls > Key Binds > Craftmetry**.
 
 ## Build
 
