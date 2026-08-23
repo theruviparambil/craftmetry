@@ -1,0 +1,22 @@
+# macOS and editors
+.DS_Store
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Gradle and Minecraft development outputs
+.gradle/
+build/
+run/
+run-production/
+logs/
+crash-reports/
+*.class
+hs_err_pid*.log
+replay_pid*.log

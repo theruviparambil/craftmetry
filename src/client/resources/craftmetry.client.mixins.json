@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "io.github.theruviparambil.craftmetry.mixin.client",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "KeyMappingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
