@@ -28,9 +28,17 @@ This alpha is tested with:
 Fabric documents the `mods` folder location for Windows, macOS, and Linux in
 its [player guide](https://docs.fabricmc.net/players/installing-mods).
 
-Enter a world and click. The counter appears in the upper-left corner and drops
-back to zero one second after the last click. Press `H` to show or hide it. You
-can change the binding under **Options > Controls > Key Binds > Craftmetry**.
+Enter a world and click. The counter drops back to zero one second after the
+last click. New installs use these controls:
+
+- `K`: show or hide the counter
+- `M`: move the HUD clockwise through the four screen corners
+- `R`: cycle through small, normal, and large sizes
+
+You can change every binding under **Options > Controls > Key Binds >
+Craftmetry**. Existing installations keep any binding Minecraft already saved.
+Craftmetry saves HUD visibility, corner, and size in
+`config/craftmetry.json`.
 
 ## Build
 

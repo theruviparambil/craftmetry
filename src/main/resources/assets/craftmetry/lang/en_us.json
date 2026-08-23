@@ -1,4 +1,6 @@
 {
   "key.category.craftmetry.controls": "Craftmetry",
-  "key.craftmetry.toggle_hud": "Toggle Craftmetry HUD"
+  "key.craftmetry.toggle_hud": "Toggle CPS Counter",
+  "key.craftmetry.cycle_corner": "Cycle CPS Corner",
+  "key.craftmetry.cycle_scale": "Cycle CPS Size"
 }
